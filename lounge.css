@@ -19,3 +19,7 @@ cranberry {
     color: orange;
     font-weight: 20px;
 }
+
+body {
+    text-align: center;
+}
