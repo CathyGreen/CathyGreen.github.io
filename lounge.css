@@ -1,1 +1,16 @@
+green {
+    color: blue;
+}
 
+Raspberry {
+    color: green;
+}
+
+blue {
+    color: yellow;
+}
+
+cran {
+    color: orange;
+    font-weight: 20px;
+}
