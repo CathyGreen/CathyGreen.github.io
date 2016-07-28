@@ -19,6 +19,7 @@ p.Raspberry {
 p.blue {
     color: yellow;
     font-size: 18px;
+    font-weight:20px;
 }
 p.cranberry {
     color: orange;
@@ -26,7 +27,4 @@ p.cranberry {
     font-size: 18px;
 }
 
-}
-#header1 {
-    background-color: green
 }
