@@ -3,23 +3,30 @@
     padding: 0px;
 }
 
-green {
+p.green {
     font-weight: bold 20px color: blue;
+    font-size: 18px;
 }
 
-Raspberry {
+
+}
+p.Raspberry {
     font-weight: bold 30px Tahoma color: green;
+    font-size: 18px;
 }
 
-blue {
+}
+p.blue {
     color: yellow;
+    font-size: 18px;
 }
-
-cranberry {
+p.cranberry {
     color: orange;
     font-weight: 20px;
+    font-size: 18px;
 }
 
-body {
-    text-align: center;
+}
+#header1 {
+    background-color: green
 }
