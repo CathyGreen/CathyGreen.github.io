@@ -1,13 +1,18 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
 green {
-    color: blue;
+    font-weight: bold 20px color: blue;
 }
 
 Raspberry {
     color: green;
 }
 
-blue {color: yellow;
-
+blue {
+    color: yellow;
 }
 
 cranberry {
