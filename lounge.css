@@ -4,27 +4,25 @@
 }
 
 p.greentea {
-    font-weight: bold 20px color: blue;
+    font-weight: bold 20px;
+    color: blue;
     font-size: 18px;
 }
 
-
-}
 p.Raspberry {
-    font-weight: bold 30px Tahoma color: green;
+    font-weight: bold 30px Tahoma;
+    color: green;
     font-size: 18px;
 }
 
-}
 p.blueberry {
     color: yellow;
     font-size: 18px;
-    font-weight:20px;
+    font-weight: 20px;
 }
+
 p.cranberry {
     color: orange;
     font-weight: 20px;
     font-size: 18px;
-}
-
 }
