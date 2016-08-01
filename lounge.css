@@ -1,36 +1,45 @@
     * {
-    border-width: 5px;
-    border-color: green;
-    border-radius: 50% border-style: solid;
-    margin: 20px;
-
-    padding: 10px;
-}
-
-p.greentea {
-    font-weight: 20px;
-    color: blue;
-    font-size: 18px;
-}
-
-p.Raspberry {
-    font-weight: 30px Tahoma;
-    color: green;
-    font-size: 18px;
-}
-
-p.blueberry {
-    color: red;
-    font-size: 18px;
-    font-weight: 20px;
-}
-
-p.cranberry {
-    color: orange;
-    font-weight: 20px;
-    font-size: 18px;
-}
-
-.header1 {
-    background-color: green;
-}
+        border-width: 5px;
+        border-color: green;
+        border-radius: 50% border-style: solid;
+        margin: 20px;
+        padding: 10px;
+    }
+    
+    p {
+        background-color: height: 250px;
+        width: 2000px padding: 10px;
+    }
+    
+    body {
+        font-size: 18px;
+        font-family: cursive;
+    }
+    
+    p.greentea {
+        font-weight: 20px;
+        color: blue;
+        font-size: 18px;
+    }
+    
+    p.Raspberry {
+        font-weight: 30px Tahoma;
+        color: green;
+        font-size: 18px;
+    }
+    
+    p.blueberry {
+        color: red;
+        font-size: 18px;
+        font-weight: 20px;
+    }
+    
+    p.cranberry {
+        color: orange;
+        font-weight: 20px;
+        font-size: 18px;
+    }
+    
+    .header1 {
+        background-color: green;
+    }
