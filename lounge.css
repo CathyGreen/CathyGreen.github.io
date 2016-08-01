@@ -1,5 +1,5 @@
     * {
-        border-width: 15px;
+        border-width: 2px;
         border-color: green;
         border-style: solid;
         margin: 20px;
@@ -8,9 +8,9 @@
     
     p {
         background-color: C5F5E2 height: 250px;
-        width: 2000px;
+        width: 1800px;
         padding: 10px;
-        border-radius: 60%;
+        border-radius: 40%;
     }
     
     body {
