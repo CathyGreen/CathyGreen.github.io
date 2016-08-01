@@ -1,6 +1,10 @@
-* {
-    margin: 0px;
-    padding: 0px;
+    * {
+    border-width: 5px;
+    border-color: green;
+    border-radius: 50% border-style: solid;
+    margin: 20px;
+
+    padding: 10px;
 }
 
 p.greentea {
@@ -25,4 +29,8 @@ p.cranberry {
     color: orange;
     font-weight: 20px;
     font-size: 18px;
+}
+
+.header1 {
+    background-color: green;
 }
