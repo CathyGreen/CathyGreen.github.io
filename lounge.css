@@ -7,8 +7,9 @@
     }
     
     p {
-        background-color: height: 250px;
-        width: 2000px padding: 10px;
+        background-color: C5F5E2 height: 250px;
+        width: 2000px;
+        padding: 10px;
     }
     
     body {
@@ -20,6 +21,7 @@
         font-weight: 20px;
         color: blue;
         font-size: 18px;
+        background-color: 2CBFF9
     }
     
     p.Raspberry {
@@ -32,6 +34,7 @@
         color: red;
         font-size: 18px;
         font-weight: 20px;
+        background-color: 2CBFF9
     }
     
     p.cranberry {
