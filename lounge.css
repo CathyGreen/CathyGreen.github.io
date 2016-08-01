@@ -1,7 +1,7 @@
     * {
-        border-width: 5px;
+        border-width: 15px;
         border-color: green;
-        border-radius: 50% border-style: solid;
+        border-style: solid;
         margin: 20px;
         padding: 10px;
     }
@@ -10,6 +10,7 @@
         background-color: C5F5E2 height: 250px;
         width: 2000px;
         padding: 10px;
+        border-radius: 60%;
     }
     
     body {
