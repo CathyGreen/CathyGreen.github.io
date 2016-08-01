@@ -7,9 +7,14 @@
     }
     
     p {
-        background-color: C5F5E2 height: 250px;
-        width: 1000px;
+        background-color: C5F5E2;
+        height: 250px;
+        width: 1200px;
         padding: 10px;
+    }
+    
+    h2 {
+        background-color: 2CF951;
     }
     
     body {
