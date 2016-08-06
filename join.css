@@ -7,7 +7,6 @@ p.join {
     height: 20%;
     line-height: 30px;
     margin: 20px;
-    background-image: http: //pngimg.com/upload/star_PNG1597.png
-    background-repeat: no-repeat;
+    background-image: url(http: //pngimg.com/upload/star_PNG1597.png) background-repeat: no-repeat;
     background-position: top 20px left 20px;
 }
