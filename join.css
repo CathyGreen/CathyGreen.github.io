@@ -1,0 +1,13 @@
+p.join {
+    background-color: #81BEF7;
+    border-style: dashed;
+    border-color: white;
+    padding: 15px;
+    width: 30%;
+    height: 20%;
+    line-height: 30px;
+    margin: 20px;
+    background-image: http: //pngimg.com/upload/star_PNG1597.png
+    background-repeat: no-repeat;
+    background-position: top 20px left 20px;
+}
