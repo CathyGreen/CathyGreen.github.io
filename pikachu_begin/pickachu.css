@@ -11,7 +11,7 @@ div.circle1 {
     background-color: #e65a41;
     width: 300px;
     height: 300px;
-    padding-top:90px;
+    padding-top: 90px;
     border-radius: 50%;
     position: absolute;
     top: -75;
@@ -37,7 +37,7 @@ div.circle3 {
     width: 350px;
     height: 350px;
     border-radius: 50%;
-   padding-top: 90px;
+    padding-top: 90px;
     position: absolute;
     top: 200px;
     left: 300px;
@@ -52,10 +52,11 @@ div.circle4 {
     padding-top: 30px;
     padding-left: 10px;
     position: absolute;
-    top: 100px;    left: 20px;
-font-size: 0.8em;
-
+    top: 100px;
+    left: 20px;
+    font-size: 0.8em;
 }
+
 div.circle5 {
     background-color: #623108;
     width: 100px;
@@ -66,7 +67,6 @@ div.circle5 {
     right: 220px;
     padding-top: 5px;
     padding-left: 3px;
-
     font-size: 0.8em;
 }
 
