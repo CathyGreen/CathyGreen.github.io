@@ -39,15 +39,15 @@ div.circle3 {
     border-radius: 50%;
     padding-top: 90px;
     position: absolute;
-    top: 200px;
-    left: 300px;
+    top: 170px;
+    left: 400px;
     font-size: 0.8em;
 }
 
 div.circle4 {
     background-color: #623108;
-    width: 60px;
-    height: 60px;
+    width: 80px;
+    height: 80px;
     border-radius: 50%;
     padding-top: 30px;
     padding-left: 10px;
@@ -77,6 +77,6 @@ div.circle6 {
     border-radius: 50%;
     position: absolute;
     bottom: -60px;
-    left: 590px;
+    left: 790px;
     font-size: 0.8em;
 }
