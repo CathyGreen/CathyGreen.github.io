@@ -7,9 +7,9 @@ body {
 }
 
 div.circle1 {
+    box-sizing: border-box;
     background-color: #e65a41;
-    width
-: 120px;
+    width: 120px;
     height: 120px;
     border-radius: 50%;
     position: absolute;
@@ -17,6 +17,7 @@ div.circle1 {
     left: 130px;
     font-size: 0.8em;
 }
+
 div.circle2 {
     background-color: #623108;
     width: 350px;
